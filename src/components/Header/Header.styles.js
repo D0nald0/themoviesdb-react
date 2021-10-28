@@ -12,6 +12,12 @@ justify-content: space-between;
 max-width: var(--maxWidth);
 padding:20px 0;
 margin: 0 auto;
+  color: var(--white);
+  
+  a{
+    color: var(--white);
+    text-decoration: none;
+  }
 `;
 
 export  const LogoImg = styled.img`
